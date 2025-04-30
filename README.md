@@ -1,0 +1,2 @@
+# SimuladorEncuestas
+simulador de encuestas 
