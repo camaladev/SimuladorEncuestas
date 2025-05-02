@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "edid",
+        "edad": 31,
+        "respuestas": { "p1": "Sí", "p2": "No", "p3": "Tal vez" }
+    },
+    {
+        "nombre": "Lucía",
+        "edad": 25,
+        "respuestas": { "p1": "Sí", "p2": "", "p3": "No sé" }
+    },
+    {
+        "nombre": "Mario",
+        "edad": 21,
+        "respuestas": { "p1": "No", "p2": "Sí", "p3": "No" }
+    }
+]
